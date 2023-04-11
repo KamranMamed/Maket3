@@ -1,0 +1,25 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.k_header, .k_footer{
+    min-height: 75px;
+    background-color: blue;
+}
+
+.k_navbar{
+    min-height: 500px;
+    background-color: aqua;
+}
+
+.k_article{
+    min-height: 500px;
+    background-color: aquamarine;
+}
+
+.k_add{
+    min-height: 500px;
+    background-color: aqua;
+}
